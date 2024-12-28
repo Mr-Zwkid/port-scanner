@@ -51,7 +51,7 @@ port-scanner
 
 1. 克隆项目到本地：
    ```
-   git clone <repository-url>
+   git clone git@github.com:Mr-Zwkid/port-scanner.git
    ```
 2. 进入项目目录：
    ```
