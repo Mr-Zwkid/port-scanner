@@ -1,0 +1,6 @@
+[2024-12-28 16:06:48] ICMP Scan result for 127.0.0.1: Online
+[2024-12-28 16:07:12] Error: Invalid port number (must be between 0-65535)
+[2024-12-28 16:07:27] TCP Connect Scan result for 127.0.0.1 on port 5354: Open
+[2024-12-28 16:07:35] UDP Scan result for 127.0.0.1 on port 53: Open/Filtered
+[2024-12-28 16:07:40] UDP Scan result for 127.0.0.1 on port 161: Closed
+
